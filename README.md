@@ -1,6 +1,8 @@
 # Hadiza.github.io
 Data Science Portfolio Practice
-Project 1:
+
+#(Project 1: Data Science Salary Estimator) (https://github.com/Nnalo/Hadiza.github.io)
+
 Data Science Salary Estimator: Project Overview
 Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 Scraped over 1000 job descriptions from glassdoor using python and selenium
